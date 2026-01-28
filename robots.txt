@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://robija92.github.io/Robert-Egon.Djeri-IT74-23/sitemap.xml
